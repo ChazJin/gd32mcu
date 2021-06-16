@@ -10,14 +10,14 @@
       },
       "platforms": [
          {
-          "name": "",
+          "name": "GD32 ARM Boards",
           "architecture": "gd32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "",
-          "archiveFileName": "",
-          "checksum": "",
-          "size": "",
+          "url": "https://github.com/ChazJin/arduino_cores/releases/download/1.0.0/gd32-1.0.0.zip",
+          "archiveFileName": "gd32-1.0.0.zip",
+          "checksum": "SHA-256:7483bd6a46a531957d81443e56d33c76789f20da5eda7b00d7797e3f76a5fe7e",
+          "size": "558443",
           "boards": [
             {
               "name": "GD32F307VG MBED"
@@ -82,7 +82,7 @@
       },
       "platforms": [
          {
-          "name": "",
+          "name": "GD32 RISC-V Boards",
           "architecture": "gd32_riscv",
           "version": "1.0.0",
           "category": "Contributed",
