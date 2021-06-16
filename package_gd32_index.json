@@ -62,80 +62,11 @@
           "version": "1.0.0",
           "systems": [
               {
-                  "checksum": "SHA-256:0a4acf852f5dc6de74643810da15f0b2a36d60a463a44adc14895303f99fd0d1",
+                  "checksum": "SHA-256:0ad7b9b854ec2c5cc0fe9c7eb6cd84e5cee7b32d69964a6b95a3fc48090b50c2",
                   "url": "https://github.com/ChazJin/arduino_tools/releases/download/1.0.0/gd32tools-1.0.0-windows.zip",
                   "archiveFileName": "gd32tools-1.0.0-windows.zip",
                   "host": "i686-mingw32",
-                  "size": "16983657"
-              }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "GD32",
-      "websiteURL": "https://www.gigadevice.com/",
-      "maintainer": "GigaDevice",
-      "email": "",
-      "help": {
-        "online": "https://www.gigadevice.com/"
-      },
-      "platforms": [
-         {
-          "name": "GD32 RISC-V Boards",
-          "architecture": "gd32_riscv",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "",
-          "archiveFileName": "",
-          "checksum": "",
-          "size": "",
-          "boards": [
-            {
-              "name": "GD32VF103"
-            },
-            {
-              "name": "GD32VF103V EVAL"
-            }
-          ],
-          "toolsDependencies": [
-            {
-              "version": "10.1.0-1.1",
-              "name": "xpack-riscv-none-embed-gcc",
-              "packager": "GD32"
-          },
-          {
-              "version": "1.0.0",
-              "name": "gd32tools",
-              "packager": "GD32"
-          }
-          ]
-        }
-      ],
-      "tools": [
-        {
-          "name": "xpack-riscv-none-embed-gcc",
-          "version": "10.1.0-1.1",
-          "systems": [
-              {
-                  "checksum": "SHA-256:204962e61a6a79619351f1dd6ffc140e10c467414155690e98373cf640bb1a3e",
-                  "url": "https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/download/v10.1.0-1.1/xpack-riscv-none-embed-gcc-10.1.0-1.1-win32-x64.zip",
-                  "archiveFileName": "xpack-riscv-none-embed-gcc-10.1.0-1.1-win32-x64.zip",
-                  "host": "i686-mingw32",
-                  "size": "451269798"
-              }
-          ]
-        },
-        {
-          "name": "gd32tools",
-          "version": "1.0.0",
-          "systems": [
-              {
-                  "checksum": "SHA-256:0a4acf852f5dc6de74643810da15f0b2a36d60a463a44adc14895303f99fd0d1",
-                  "url": "https://github.com/ChazJin/arduino_tools/releases/download/1.0.0/gd32tools-1.0.0-windows.zip",
-                  "archiveFileName": "gd32tools-1.0.0-windows.zip",
-                  "host": "i686-mingw32",
-                  "size": "16983657"
+                  "size": "16983393"
               }
           ]
         }
