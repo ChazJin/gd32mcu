@@ -44,8 +44,8 @@
         }
       ],
       "tools": {
-        "name": "gd32tools",
-        "version": "1.0.0",
+        "name": "xpack-arm-none-eabi-gcc",
+        "version": "9.2.1-1.1",
         "systems": [
             {
                 "checksum": "SHA-256:923bf50198cb155361a95fcac8804d12acd64e963a89f352c69fe24bf54ff0ef",
@@ -98,8 +98,8 @@
         }
       ],
       "tools": {
-        "name": "gd32tools",
-        "version": "1.0.0",
+        "name": "xpack-riscv-none-embed-gcc",
+        "version": "10.1.0-1.1",
         "systems": [
             {
                 "checksum": "SHA-256:204962e61a6a79619351f1dd6ffc140e10c467414155690e98373cf640bb1a3e",
