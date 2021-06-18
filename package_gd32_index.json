@@ -14,9 +14,9 @@
           "architecture": "gd32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/ChazJin/arduino_cores/releases/download/1.0.0/gd32-1.0.0.zip",
+          "url": "https://github.com/ChazJin/arduino_cores/releases/download/1.0.0/gd32-1.0.0.rar",
           "archiveFileName": "gd32-1.0.0.zip",
-          "checksum": "SHA-256:4c9ad59635625ab61ce2d825921ce9d54abee5beccef962611800347e9e59a6c",
+          "checksum": "SHA-256:e3e0a9d7891e831f9b96adea930da71ceeb4526eed8b83f9e0852604ca19aeb9",
           "size": "561385",
           "boards": [
             {
@@ -62,7 +62,7 @@
           "version": "1.0.0",
           "systems": [
               {
-                  "checksum": "SHA-256:0ad7b9b854ec2c5cc0fe9c7eb6cd84e5cee7b32d69964a6b95a3fc48090b50c2",
+                  "checksum": "SHA-256:fae804adf594d2dc5a6154651d10dc9d058050bba8f462c0fccdf2dee37c7720",
                   "url": "https://github.com/ChazJin/arduino_tools/releases/download/1.0.0/gd32tools-1.0.0-windows.zip",
                   "archiveFileName": "gd32tools-1.0.0-windows.zip",
                   "host": "i686-mingw32",
