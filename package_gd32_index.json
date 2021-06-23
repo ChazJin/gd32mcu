@@ -62,11 +62,11 @@
           "version": "1.0.0",
           "systems": [
               {
-                  "checksum": "SHA-256:88c09454d72180e3004cb46a9f66a135ae16cd18ae9318670d967ca4b57988e4",
+                  "checksum": "SHA-256:1746ee60a6e22cf1725e18683507e6538877d2e124ded2f46c3abb3c0343d07b",
                   "url": "https://github.com/ChazJin/arduino_tools/releases/download/1.0.0/gd32tools-1.0.0-windows.zip",
                   "archiveFileName": "gd32tools-1.0.0-windows.zip",
                   "host": "i686-mingw32",
-                  "size": "17258304"
+                  "size": "17258366"
               }
           ]
         }
