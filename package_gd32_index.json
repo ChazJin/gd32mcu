@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/ChazJin/arduino_cores/releases/download/1.0.0/gd32-1.0.0.zip",
           "archiveFileName": "gd32-1.0.0.zip",
-          "checksum": "SHA-256:faaac3a587ea457897e4c0b4d31d1deee47248435665e102fd0ee6bd4b870502",
-          "size": "573362",
+          "checksum": "SHA-256:db7148d25d16c57a630ada89fe30979523e92e34e2dfd1f6389fcd99c283f34e",
+          "size": "573459",
           "boards": [
             {
               "name": "GD32F307VG MBED"
@@ -62,11 +62,11 @@
           "version": "1.0.0",
           "systems": [
               {
-                  "checksum": "SHA-256:1746ee60a6e22cf1725e18683507e6538877d2e124ded2f46c3abb3c0343d07b",
+                  "checksum": "SHA-256:c2ca984550754726adac470a409d8530075c3be4e41c1775b943754984a31539",
                   "url": "https://github.com/ChazJin/arduino_tools/releases/download/1.0.0/gd32tools-1.0.0-windows.zip",
                   "archiveFileName": "gd32tools-1.0.0-windows.zip",
                   "host": "i686-mingw32",
-                  "size": "17258366"
+                  "size": "18350006"
               }
           ]
         }
