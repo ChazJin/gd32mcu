@@ -1,1 +1,1 @@
-# gd32mcu
+# gd32mcu Arduino support
